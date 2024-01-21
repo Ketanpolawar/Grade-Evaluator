@@ -6,3 +6,5 @@ this is java based  project has application of jsp ,crud operations on databases
 ![Screenshot_20230213_112623 - Copy](https://github.com/Ketanpolawar/Grade-Evaluator/assets/115727322/2ad2a4cc-c6ec-4b97-9533-1780794b797b)
 ![Screenshot_20230213_112711](https://github.com/Ketanpolawar/Grade-Evaluator/assets/115727322/b9774500-3a78-4528-941c-6426fff6f440)
 ![Screenshot_20230213_112623](https://github.com/Ketanpolawar/Grade-Evaluator/assets/115727322/75f64aa8-4b60-4ad0-945c-005bbfde3e26)
+![Screenshot 2024-01-22 003039](https://github.com/Ketanpolawar/Grade-Evaluator/assets/115727322/a166deb4-217f-4d1e-a400-fe727cd0864c)
+![Screenshot 2024-01-22 003053](https://github.com/Ketanpolawar/Grade-Evaluator/assets/115727322/23c8e0c3-b92b-401a-b1f8-c17847b26268)
