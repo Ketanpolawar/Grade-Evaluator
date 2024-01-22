@@ -1,5 +1,12 @@
 # Grade-Evaluator
-this is java based  project has application of jsp ,crud operations on databases using the glassfish server  
+ It is a robust project based on java along with implementation of jsp ,it successfully demonstrates the crud (create - read - update - delete) operations on databases.
+
+ Langauges : Html,Java,jsp
+
+ Server :GlassFish Server
+
+ Ide : Netbeans
+ 
 
 ![Screenshot_20230213_112354](https://github.com/Ketanpolawar/Grade-Evaluator/assets/115727322/cd976dd8-2458-4067-97b5-89f8106e6857)
 ![Screenshot_20230213_112440](https://github.com/Ketanpolawar/Grade-Evaluator/assets/115727322/56818b5c-dc8b-42e9-b5b7-679ae89181fe)
