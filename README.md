@@ -1,11 +1,11 @@
 # Grade-Evaluator
  It is a robust project based on java along with implementation of jsp ,it successfully demonstrates the crud (create - read - update - delete) operations on databases.
 
- Langauges : Html,Java,jsp
+| Langauges | Server |Ide|
+|:---:|:----:|:-----------:|
+|Html,Java,jsp|GlassFish|Netbeans|
+ 
 
- Server :GlassFish Server
-
- Ide : Netbeans
 
  | Sr | File |  Contents|
 |:---:|:----:|:-----------:|
